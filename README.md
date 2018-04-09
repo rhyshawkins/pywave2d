@@ -36,8 +36,8 @@ It is assumed that the TDTbase repository is extracted under the same parent
 folder as pywave2d, e.g.
 
 * Parent Directory
-** TDTbase
-** pywave2d
+..* TDTbase
+..* pywave2d
 
 If this is not the case, then setup.py needs to be modified to point to the
 correct location of the TDTbase repository (see the setting of the TDTBASE
