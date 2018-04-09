@@ -9,7 +9,8 @@ Geophysical Journal International, 2015.
 The Numpy swig interface file, numpy.i, is included in this source bundle for
 convenience. See numpy.i for their copyright and license.
 
-All code authored by Rhys Hawkins Copyright (c) 2017.
+Released Opensource under GPL v3 License. Copyright (c) 2014 - 2018 Rhys Hawkins.
+See LICENSE for details.
 
 # Prequisites
 
