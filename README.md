@@ -58,6 +58,7 @@ Various simple plotting scripts show how to plot some of the outputted files.
 
 To run the entire example, starting from the the pywave2d directory, do:
 
+```
 cd example
 python2 mkdata.py
 
@@ -68,8 +69,9 @@ python2 plot_mean.py
 python2 plot_prior.py
 python2 plot_like.py
 python2 plot_coeff.py
+```
 
-#Notes
+# Notes
 
 A work in progress so most of the module documenation is in comments in the
 regression.py script.
