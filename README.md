@@ -87,7 +87,7 @@ python2 plot_coeff.py
 # Notes
 
 A work in progress so most of the module documenation is in comments in the
-regression.py script.
+example/regression.py script.
 
 
 
