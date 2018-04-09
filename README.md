@@ -29,12 +29,14 @@ For plotting:
 
 # Building the module
 
+```
 tar -xzf pywave2d.tar.gz
 cd pywave2d
 cd libraries
 make
 cd ..
 python2 setup.py build
+```
 
 This module is still experimental and is probably safest to run in the
 build directory for now. See the imports section of example/regression.py
