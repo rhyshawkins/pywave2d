@@ -23,7 +23,7 @@ For building the module:
 * Numpy
 * gmp (Gnu Arbitrary precision math library)
 * gsl (Gnu scientific library)
-* Trans-dimensional Tree base libraries (see TDTbase repo)
+* Trans-dimensional Tree base libraries (see TDTbase repository at http://github.com/rhyshawkins/TDTbase)
 
 
 For plotting:
